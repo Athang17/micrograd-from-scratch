@@ -1,1 +1,1 @@
-# microgram-from-scratch-
+# micrograd-from-scratch
